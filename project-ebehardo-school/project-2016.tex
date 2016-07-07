@@ -60,7 +60,7 @@
 %% ====================================
 %% ====================================
 
-\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~Modelo de projeto}
+\lfoot{\footnotesize \texttt{Cabeamento estruturado} \textbullet ~Escola Municipal Professor Ebehardo}
 
 
 \cfoot{}
@@ -87,7 +87,7 @@
 										}
 
 \pretitle{\vspace{-30pt} \begin{flushleft} \HorRule 
-				\fontsize{50}{50} \usefont{OT1}{phv}{b}{n} \color{DarkRed} \selectfont 
+				\fontsize{40}{50} \usefont{OT1}{phv}{b}{n} \color{DarkRed} \selectfont 
 				}
 
 %% ====================================
@@ -125,15 +125,12 @@
 \thispagestyle{empty}		% Enabling the custom headers/footers for the first page 
 % The first character should be within \initial{}
 
-
-
-
 %% ====================================
 %% ====================================
 %% mude o resumo  do projeto
 %% ====================================
 %% ====================================
-\initial{E}\textbf{ste projeto tem como finalidade a criação/instalação de cabeamento estruturado em uma estrutura real localizada na Escola Municipal Professor Ebehardo, localizada no Distrito de Agrocafeeira - Matelândia/PR, o qual conterá levantamento da planta física, elaboração da planta lógica e equipamentos ativos de rede, como também os custos/orçamentos que envolvem este projeto. Os responsáveis pela criação/elaboração do projeto são os servidores públicos municipais Cristian Assunção, técnico em informática e João Carlos V. Siqueira, Analista de Suporte Técnico.}
+\initial{E}\textbf{ste projeto tem como finalidade a criação/instalação de cabeamento estruturado (situação real) para a Escola Municipal Professor Ebehardo, localizada no Distrito de Agrocafeeira - Matelândia/PR, o qual conterá levantamento da planta física, elaboração da planta lógica e equipamentos ativos de rede, como também os custos/orçamentos que envolvem este projeto. Os responsáveis pela criação/elaboração do projeto são os servidores públicos municipais Cristian Assunção, técnico em informática e João Carlos V. Siqueira, Analista de Suporte Técnico.}
 	
 	%%Este modelo exemplifica como um projeto de cabeamento estruturado deve ser elaborado. No projeto real,
 	%%esta seção deve indicar qual seria o propósito do projeto: reestruturar, criar uma estrura sem uma anterior, apresentar uma estrutura ficticia ou real  etc. Deve também conter sua cobertura (quais elementos este projeto aborda): Levantamento da planta física, Elaboração da planta lógica, Equipamentos passivos da rede (memorial descritivo), Levantamento de quantidade/custo, Plano de Certificação e orçamento.
@@ -170,8 +167,7 @@
 %% ====================================
 \section{Introdução}
 %%Explique nesta primeira seção qual seria o perfil do caso. Perfil do cliente, quantidade de colaboradores, quantidade de equipamentos de TI atualmente.
-
-Este projeto tem por finalidade o desenvolvimento de um sistema de cabeamento estruturado para a Escola Municipal Professor Ebehardo, localizada no distrito de AgroCafeeira - Matelândia/PR, a qual foi recentemente inaugurada e não possui estrutura de cabeamento para interconexão dos computadores/ ativos de rede.
+Este projeto tem por finalidade o desenvolvimento de um sistema de cabeamento estruturado para a Escola Municipal Professor Ebehardo, localizada no distrito de AgroCafeeira - Matelândia/PR, a qual foi recentemente inaugurada e não possui estrutura de cabeamento para interconexão dos computadores/ativos de rede.
 A escola possui laboratório de informática contendo estações de trabalho multiusuário, modelo Proinfo - http://portal.mec.gov.br/proinfo/proinfo - do Governo Federal, com capacidade para 20 usuários, bem como, computadores nas salas da (1) Secretaria, (2) Recursos e (1) Professores, um total de 24 (vinte e quatro) computadores.
 O projeto visa a instalação de cabeamento estruturado (topologia em árvore), roteador, rack, switch, eletrodutos e identificação do cabeamento da LAN. 
 
@@ -199,12 +195,43 @@ Estão distribuídos da seguinte forma:
 
 
 \section{Usuários e Aplicativos}
-Explique nesta seção os usuários atuais e o perfil de crescimento, se por exemplo, há estimativa na evolução da empresa no que tange a quantidade de usuários, pontos de redes, equipamentos.
+%Explique nesta seção os usuários atuais e o perfil de crescimento, se por exemplo, há estimativa na evolução da empresa no que tange a quantidade de usuários, pontos de redes, equipamentos.
+A escola possui 21 (vinte e um) professores, 320 (trezentos e vinte) alunos, sendo 98 (noventa e oito) da educação infantil e 222 (duzentos e vinte e dois) do ensino fundamental (anos iniciais), 01 (uma) Diretora, 02 (duas) coordenadoras e 01 (uma) secretária.
 
+O projeto terá previsão de instalação de 02 (dois) pontos de rede na sala da secretaria, 10 (dez) pontos de rede no laboratório de informática, 03 (três) pontos de rede na sala de Recursos, 03 (três) pontos na sala dos professores e 02 (dois) pontos na sala da Direção, um total de 20 (vinte) pontos de conexão.
+
+Existe a estimativa de instalação de circuito fechado de TV, em um total de 6 (seis) câmeras, as quais usarão cabo coaxial e DVR para armazenamento e controle.
 
 \subsection{Usuários}
-Crie uma relação da quantidade, perfil de usuários de seu projeto.
-
+%Crie uma relação da quantidade, perfil de usuários de seu projeto.
+Os usuários ativos estarão distribuídos da seguinte forma:
+\begin{itemize}
+	\item 20 (vinte) no laboratório de informática:
+		\begin{itemize}
+			\item 10 (dez) computadores;
+			\item 02 (dois) usuários por máquina.
+		\end{itemize}
+	\item 02 (dois) na sala da Secretária:
+	   \begin{itemize}
+	   	\item 01 (um) computador; 
+	   	\item 01 (uma) impressora de rede.
+	   \end{itemize} 
+	\item 03 (três) na sala de Recursos:
+		\begin{itemize}
+			\item 02 (dois) computadores;
+			\item 01 (um) roteador wireless.
+		\end{itemize}
+	\item 02 (dois) na sala da Direção:
+		\begin{itemize}
+			\item 01 (um) computador;
+			\item 01 (um) roteador wireless.
+		\end{itemize}
+	\item 03 (três) na sala dos Professores:
+		\begin{itemize}
+			\item 02 (dois) computadores;
+			\item 01 (uma) impressora de rede.
+		\end{itemize}
+\end{itemize}
 \subsection{Aplicativos}
 Crie uma relação dos aplicativos e seus níveis críticos de uso.
 

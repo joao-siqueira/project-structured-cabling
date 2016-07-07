@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{t2013}
+A.~Tanenbaum and D.~Wetherall, ``Computer networks: Pearson new international
+  edition,'' 2013.
+
+\bibitem{kurose2010}
+J.~F. Kurose, K.~W. Ross, A.~S. Marques, and W.~L. Zucchi, {\em Redes de
+  Computadores ea Internet: uma abordagem top-down}.
+\newblock Pearson, 2010.
+
+\bibitem{ref3}
+I.~F. Akyildiz, A.~Lee, P.~Wang, M.~Luo, and W.~Chou, ``Research challenges for
+  traffic engineering in software defined networks,'' {\em IEEE Network},
+  vol.~30, pp.~52--58, May 2016.
+
+\bibitem{ref4}
+J.~Hoebeke, I.~Moerman, B.~Dhoedt, and P.~Demeester, ``Redes ad hoc
+  m{\'o}veis,'' {\em RTI, Redes, Telecom e Instala{\c{c}}{\~o}es}, vol.~6,
+  no.~69, pp.~64--74, 2006.
+
+\end{thebibliography}
