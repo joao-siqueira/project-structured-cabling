@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.13)  13 JUL 2016 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.13)  13 JUL 2016 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1170,11 +1170,11 @@ AED: lastpage setting LastPage
 [8] [9 <./ESCOLA.jpg>] [10] [11 <./fig2.png>] [12 <./fig3.jpg>]
 (./project-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 11379 strings out of 493014
- 180312 string characters out of 6133351
+ 11383 strings out of 493014
+ 180342 string characters out of 6133351
  497135 words of memory out of 5000000
  14600 multiletter control sequences out of 15000+600000
- 26987 words of font info for 99 fonts, out of 8000000 for 9000
+ 27085 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8491b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/
@@ -1192,7 +1192,7 @@ b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on project-2016.pdf (12 pages, 10990430 bytes).
+Output written on project-2016.pdf (12 pages, 10987461 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
