@@ -8,18 +8,18 @@
 \contentsline {section}{\numberline {4}Estrutura predial existente}{5}
 \contentsline {section}{\numberline {5}Planta L\IeC {\'o}gica - Elementos estruturados}{5}
 \contentsline {subsection}{\numberline {5.1}Estado atual}{5}
-\contentsline {subsection}{\numberline {5.2}Topologia}{5}
+\contentsline {subsection}{\numberline {5.2}Topologia}{6}
 \contentsline {subsection}{\numberline {5.3}Encaminhamento}{6}
 \contentsline {subsection}{\numberline {5.4}Memorial descritivo}{6}
 \contentsline {subsection}{\numberline {5.5}Identifica\IeC {\c c}\IeC {\~a}o dos cabos}{6}
 \contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{6}
-\contentsline {section}{\numberline {7}Plano de certifica\IeC {\c c}\IeC {\~a}o}{6}
+\contentsline {section}{\numberline {7}Plano de certifica\IeC {\c c}\IeC {\~a}o}{7}
 \contentsline {section}{\numberline {8}Plano de manuten\IeC {\c c}\IeC {\~a}o}{7}
 \contentsline {subsection}{\numberline {8.1}Plano de expans\IeC {\~a}o}{7}
 \contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{7}
 \contentsline {section}{\numberline {10}Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{7}
-\contentsline {section}{\numberline {11}Elementos textuais - Alguns exemplos}{7}
-\contentsline {subsection}{\numberline {11.1}Colocar elementos em itens}{7}
+\contentsline {section}{\numberline {11}Elementos textuais - Alguns exemplos}{8}
+\contentsline {subsection}{\numberline {11.1}Colocar elementos em itens}{8}
 \contentsline {subsubsection}{\numberline {11.1.1}Uma sub se\IeC {\c c}ao de terceiro nivel}{8}
 \contentsline {subsection}{\numberline {11.2}Tabelas}{8}
 \contentsline {subsection}{\numberline {11.3}Figuras}{8}
