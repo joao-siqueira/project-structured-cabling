@@ -259,17 +259,51 @@ F = Supervisão, alguns pontos para acesso das supervisoras.
 \section{Planta Lógica - Elementos estruturados}
 
 \subsection{Estado atual}
-Deve ter a planta atual, se for o caso
+A planta atual esta sendo referenciada pela (Figura \ref{ESCOLA}).
 
 \subsection{Topologia}
-Proposta futura, proposta após implantação.
-Deve conter o diagrama da rede. Atente-se a redundância  e ligações truncadas.
-Deve explicar todos termos e componentes utilizados nestas plantas. Por exemplo: entrance facility, work area, horizontal cabling, etc..
+Para a criação desta rede foi usada a topologia do tipo estrela, segue abaixo a lista de pontos e materiais utilizados para a implementação da estrutura logica e física.
 
-Todos os elementos das figuras devem ser explicados. 
-Crie esboço da configuração dos racks e brackets. Explique cada um dos componentes. Você pode criar uma tabela contendo figuras dentro, ou criar uma tabela e incluí-la como imagem. Por exemplo, verifique a tabela \ref{tab1}.
+Ponto A (Secretaria) = Na secretaria ficará localizado o modem da internet da operadora OI, dentro de um hack de parede 4U, dentro deste hack terá um roteador TP-LINK 300 Mbps TDW8961ND e um switch 8 portas TP-LINK 10/100 Mbps, a partir deste switch serão disponibilizados mais 5 pontos (B, C, D, E, F). Conforme Figura (\ref{ESCOLA}).
 
-\input{tab1}
+Ponto B (Sala dos Professores) = Na sala dos professores terá um ponto lógico para acesso de um computador.
+
+Ponto C (Laboratório de Informática) = No laboratório terá um ponto, este ponto será ligado em um switch 24 portas TP-LINK modelo TL-SF1024 10/100 Mbps, a partir deste switch serão ligados 10 (dez) computadores via cabo UTP.
+
+Ponto D (Sala de Recursos) = Nesta sala chegará um ponto, onde será ligado um roteador TP-LINK 300 Mbps TDW8961ND, distribuindo internet para os demais computadores.
+
+Ponto E (Sala da Direção) = Terá um ponto para acesso do computador da Diretora.
+
+Ponto F (Sala da Supervisão) = Um ponto para acesso do computador das supervisoras.
+
+Além disso serão utilizados mais alguns materiais que vão ser listados a baixo:
+\begin{itemize}
+\item 40 METROS DE CABO UTP CAT 5E
+
+\item 100 UN CONDULETE X 1
+
+\item 200 UN TAMPAO PARA CONDULETE 1"
+
+\item 150 UN LUVA ADAPTADORA 1 C/ PARAFUSO
+
+\item 50 UN LUVA ADAPTADORA 3/4 C/ PARAFUSO
+
+\item 10 UN MANGUEIRA TUBO METAL 1" SELTUBO
+
+\item 20 UN PLUGUE MACHO 3P 10A P. CABO
+
+\item 20 UN PLUGUE FEMEA 3P 20A
+
+\item 20 UN TAMPA PARA CONDULETE 1" 2 POSTO RJ45
+
+\item 75 UN TAMPA PARA CONDULETE 1" 1 POSTO RJ45
+
+\item 20 UN TOMADA 2P+T 20A 250V DUPLA S/ PLACA EM BRANCA
+
+\item 100 UN TAMPO RJ45
+
+\item 30 UN ELETRODUTO ZINCADO 1"
+\end{itemize}
 
 \subsection{Encaminhamento}
 Eletrodutos, calhas, e qualquer material em que os cabos serão alojados/alocados.

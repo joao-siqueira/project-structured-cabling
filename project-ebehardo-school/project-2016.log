@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.13)  13 JUL 2016 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.5)  5 AUG 2016 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,23 +1118,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 191.
  [4
 
-] [5] (./tab1.tex
-<fig1.png, id=30, 608.2725pt x 423.5825pt>
-File: fig1.png Graphic file (type png)
- <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 8.
-(pdftex.def)             Requested size: 121.65234pt x 84.715pt.
-File: fig1.png Graphic file (type png)
- <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 9.
-(pdftex.def)             Requested size: 121.65234pt x 84.715pt.
-)
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 292--297
+] [5] [6]
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 326--331
 []\OT1/cmr/m/n/12 (-20) Segue uma rela^^Xc~ao de fer-ra-men-tas: http://asana.c
 om/, https://trello.com/, http://www.ganttproject.biz/,
  []
 
-[6 <./fig1.png>] (./project-2016.bbl
+(./project-2016.bbl
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1143,40 +1133,42 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 1.
 
-) [7] (./tab2.tex) <ESCOLA.jpg, id=43, 1690.1544pt x 2392.8597pt>
+[7]) (./tab2.tex) [8] <ESCOLA.jpg, id=43, 1690.1544pt x 2392.8597pt>
 File: ESCOLA.jpg Graphic file (type jpg)
 
 <use ESCOLA.jpg>
-Package pdftex.def Info: ESCOLA.jpg used on input line 371.
+Package pdftex.def Info: ESCOLA.jpg used on input line 405.
 (pdftex.def)             Requested size: 455.24417pt x 644.51074pt.
+ <fig1.png, id=44, 608.2725pt x 423.5825pt>
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 378.
+Package pdftex.def Info: fig1.png used on input line 412.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
- <fig2.png, id=44, 214.8025pt x 516.93124pt>
-File: fig2.png Graphic file (type png)
 
-<use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 386.
+<fig2.png, id=46, 214.8025pt x 516.93124pt>
+File: fig2.png Graphic file (type png)
+ <use fig2.png>
+Package pdftex.def Info: fig2.png used on input line 420.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
- <fig3.jpg, id=45, 533.5935pt x 361.35pt>
+
+<fig3.jpg, id=47, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 395.
+Package pdftex.def Info: fig3.jpg used on input line 429.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
 AED: lastpage setting LastPage
-[8] [9 <./ESCOLA.jpg>] [10] [11 <./fig2.png>] [12 <./fig3.jpg>]
+[9] [10 <./ESCOLA.jpg>] [11 <./fig1.png>] [12 <./fig2.png>] [13 <./fig3.jpg>]
 (./project-2016.aux) ) 
 Here is how much of TeX's memory you used:
- 11383 strings out of 493014
- 180342 string characters out of 6133351
- 497135 words of memory out of 5000000
- 14600 multiletter control sequences out of 15000+600000
- 27085 words of font info for 101 fonts, out of 8000000 for 9000
+ 11382 strings out of 493014
+ 180324 string characters out of 6133352
+ 497128 words of memory out of 5000000
+ 14596 multiletter control sequences out of 15000+600000
+ 27232 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,13n,77p,8491b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,77p,8491b,467s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/
 8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
 0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
@@ -1192,10 +1184,10 @@ b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/tex
 live/2016/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on project-2016.pdf (12 pages, 10987461 bytes).
+Output written on project-2016.pdf (13 pages, 10988584 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  29210 words of extra memory for PDF output out of 29859 (max. 10000000)
 
